@@ -17,7 +17,6 @@ The dataset includes a comprehensive collection of data on used cars, compiled t
 - **Location**: The location where the car is available.
 - **Features**: A list of additional features and specifications of the car, like sunroof, manual or automatic transmission, etc.
 
-This dataset is fundamental for driving analytics and model development within the "UsedCarAnalytics" project, providing the essential data needed for various analytical explorations.
 
 ## Source
 
